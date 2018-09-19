@@ -3,8 +3,6 @@
 
 This guide describes how to make your first API call with QuickBooks Online app. If you want to integrate with QuickBooks Desktop, [click here](https://developer.intuit.com/app/developer/qbdesktop/docs/get-started).
 
-## Setup Environment 
-
 ### Create an Intuit Developer account
 
 [Sign up](https://developer.intuit.com/v2/ui#/signup?nextUrl=%2Fapp%2Fdeveloper%2Fqbo%2Fdocs%2Fget-started) for a new Intuit Developer account or sign in with any current Intuit product account such as QuickBooks,TurboTax, Mint, or ProConnect.  

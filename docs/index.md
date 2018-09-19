@@ -14,7 +14,7 @@ Current topics include:
 
 Please feel free to contribute by sending a pull request or make a request by creating an issue.
 
-# Copyright
+### Copyright
 
 Copyright &copy; 2004-2018 Intuit. See [LICENSE][] for details.
 
