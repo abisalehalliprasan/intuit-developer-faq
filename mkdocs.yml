@@ -6,6 +6,3 @@ docs_dir: docs
 theme: readthedocs
 extra_css: [extra.css]
 extra_javascript: [fonts.js]
-pages:
-# Introduction:
-- ['getting_started.md', 'FAQ', 'Getting Started']
