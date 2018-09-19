@@ -5,7 +5,6 @@ Intuit Developer FAQ ( WIP )
 
 This [Intuit Developer](https://developer.intuit.com) FAQ provides answers to commonly asked questions covering our APIs and solution suite including how our APIs interact with our endpoint applications ( QBO Online, QBO Payments, QBO Desktop ).
 
-This covers the [RingCentral Connect Platform APIs](https://developers.ringcentral.com).
 
 You can view a formatted version of this FAQ on [Read the Docs](http://developer.intuit.com).
 
